@@ -1,3 +1,4 @@
+"""public api."""
 import logging
 import requests
 import time
