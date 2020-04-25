@@ -1,4 +1,4 @@
-"""public api - draft."""
+"""public api - draft2."""
 import logging
 import requests
 import time
